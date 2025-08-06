@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The curse of dimensionality: When datasets have tons of features, it becomes nearly impossible for ML models to generalize effectively or uncover real structure. In this notebook, we'll use the popular `load_wine` [dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_wine.html) from Scikit-Learn to explore how Principal Component Analysis, or PCA, can be utilized to beat this curse.
+The curse of dimensionality: When datasets have tons of features, it becomes nearly impossible for ML models to generalize effectively or uncover real structure. In this notebook, we'll use the popular `load_wine` [dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_wine.html) from Scikit-Learn to explore how **Principal Component Analysis, or PCA**, can be utilized to beat this curse.
 
 We'll see how PCA can:
 - Cluster messy datasets without labels
